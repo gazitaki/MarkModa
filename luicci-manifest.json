@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Luicci Jewelry",
+  "short_name": "LUICCI JEWELRY",
+  "description": "MED Bijuteri Toptan Sat\u0131\u015f",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2a3f5f",
+  "theme_color": "#2a3f5f",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/rKH6FTtw/MG-20260614-WA0045.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/Xr8bhvLv/MG-20260611-WA0297.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/Xr8bhvLv/MG-20260611-WA0297.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ]
+}
